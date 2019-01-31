@@ -6,11 +6,11 @@
 
 html {
   -moz-text-size-adjust: 100%;
--ms-text-size-adjust: 100%;
--webkit-text-size-adjust: 100%;
-text-size-adjust: 100%;
-box-sizing: border-box;
-font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  box-sizing: border-box;
+  font-family: sans-serif;
 }
 
 *, *::before, *::after {
@@ -19,7 +19,7 @@ font-family: sans-serif;
 
 .img-flex {
   display: block;
-  width: 100%
+  width: 100%;
 }
 
 body {
